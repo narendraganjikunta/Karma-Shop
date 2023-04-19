@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+}
+.bi-search{
+    font-size: 150%;
+    left: 69%;
+    top: 60px;
+}
+.mobile-icon{
+    font-size: 10vh;
+}
+@media(max-width:950px){
+    .bi-search{
+        font-size: 150%;
+        left: 69%;
+        top: 50px;
+    }
+}
